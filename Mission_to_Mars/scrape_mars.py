@@ -101,3 +101,4 @@ def hemisphere_url_scrape():
                 "hemisphere_images": hemisphere_image_urls
                 })
         return mars_data
+        
